@@ -1,8 +1,8 @@
 # 🔍 Named Entity Recognition **(NER)** Web Application
 
-## Professional Training - YN3012170034 (Intermediate Level)
-## Mid-term Assignment
-## Student: FAHAD
+ Professional Training Intermediate - YN3012170034  
+Mid-term Assignment
+Student: FAHAD
 
 ### 📘 Overview
 
