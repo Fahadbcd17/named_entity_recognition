@@ -1,8 +1,10 @@
 # 🔍 Named Entity Recognition **(NER)** Web Application
 
- Professional Training Intermediate - YN3012170034  
+Professional Training Intermediate - YN3012170034  
+
 Mid-term Assignment
-Student: FAHAD
+
+Student: FAHAD MD OSMAN GONI
 
 ### 📘 Overview
 
@@ -41,15 +43,15 @@ This project fulfills the requirements for the Mid-term Assignment of Profession
 
 ### 🛠 Technology Stack
 
-Python 3
+✔ Python 3
 
-Gradio
+✔ Gradio
 
-Transformers (HuggingFace)
+✔ Transformers (HuggingFace)
 
-PyTorch
+✔ PyTorch
 
-Regular Expressions (re)
+✔ Regular Expressions (re)
 
 
 
