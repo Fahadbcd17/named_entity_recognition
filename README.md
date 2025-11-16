@@ -55,29 +55,33 @@ Regular Expressions (re)
 
 ### 📁 Project Structure
 │── app.py                Main application
+
 │── requirements.txt      Project dependencies
+
 │── README.md             Documentation
+
 └── .venv/                Python virtual environment
 
 
 # 📦 Installation & Setup
 ### 1️⃣ Clone the Project
-git clone [https://github.com/Fahadbcd17/named_entity_recognition]
-cd <named_entity_recognition/>
+*git clone [https://github.com/Fahadbcd17/named_entity_recognition]*
+
+*cd <named_entity_recognition/>*
 
 ### 2️⃣ Create Virtual Environment (.venv)
-python3 -m venv .venv
+*python3 -m venv .venv*
 
-#### Ubuntu / Linux / macOS
-source .venv/bin/activate
+#### Activate the environment: ( Ubuntu / Linux / macOS )
+*source .venv/bin/activate*
 
-#### Windows (PowerShell)
-.\.venv\Scripts\activate
+#### Activate the environment: (Windows (PowerShell))
+*.\.venv\Scripts\activate*
 
 ### 3️⃣ Install Dependencies
-pip3 install -r requirements.txt
+*pip3 install -r requirements.txt*
 
 ### 4️⃣ Run the App
-python3 app.py
+*python3 app.py*
 
 You will see a Gradio link such as: ***Running on http://127.0.0.1:7860***
